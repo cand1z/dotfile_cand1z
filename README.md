@@ -1,5 +1,6 @@
 ![powershell screenshot](./images/pwsh.png)
 ![nvim screenshot](./images/nvim.png)
+![bash screenshot](./images/bash-terminator.png)
 
 
 # Davi's dotfiles.
