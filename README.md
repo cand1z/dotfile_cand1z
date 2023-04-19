@@ -21,6 +21,7 @@ Requires NeoVim (>= 0.9)
 
 ## Bash Setup (Linux)
 - [Starship](https://starship.rs/) - Prompt theme engine
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Fonts
 
 ## Powershell Setup (Windows)
 
