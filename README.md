@@ -1,5 +1,5 @@
-![powershell screenshot](./assets/pwsh.png)
-![nvim screenshot](./assets/nvim.png)
+![powershell screenshot](./images/pwsh.png)
+![nvim screenshot](./images/nvim.png)
 
 
 # Davi's dotfiles.
