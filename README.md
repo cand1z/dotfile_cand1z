@@ -11,12 +11,16 @@ My powershell and nvim configuration.
 
 - NeoVim config
 - powershell config
+
 ## NeoVim Setup
 
 Requires NeoVim (>= 0.9)
 
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - File system explorer for the vim editor.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds filetype icons to various vim plugins
+
+## Bash Setup (Linux)
+- [Starship](https://starship.rs/) - Prompt theme engine
 
 ## Powershell Setup (Windows)
 
