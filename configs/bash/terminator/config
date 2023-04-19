@@ -1,0 +1,27 @@
+[global_config]
+  inactive_color_offset = 0.4046242774566474
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#282828"
+    background_darkness = 0.97
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Hack NF 10
+    foreground_color = "#ebdbb2"
+    scrollback_lines = 10000000
+    scrollback_infinite = True
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
+    bold_is_bright = True
+    autoclean_groups = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
