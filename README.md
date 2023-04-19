@@ -24,7 +24,8 @@ Requires NeoVim (>= 0.9)
 - [Starship](https://starship.rs/) - Prompt theme engine
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Fonts
 - [Terminator](https://gnome-terminator.org/) - Terminal
-- [exa](https://the.exa.website/) - ls substitute (alias to ls commands in bashrc)
+- [exa](https://the.exa.website/) - Substiture for ls (alias to ls commands in bashrc)
+- [z](https://github.com/rupa/z) - Directory jumper
 
 ## Powershell Setup (Windows)
 
