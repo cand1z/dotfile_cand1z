@@ -17,8 +17,12 @@ My powershell and nvim configuration.
 
 Requires NeoVim (>= 0.9)
 
-- [preservim/nerdtree](https://github.com/preservim/nerdtree) - File system explorer for the vim editor.
-- [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds filetype icons to various vim plugins
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - Vim plugin for Git
+- [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Highlight
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Highly extendable fuzzy finder over lists 
+- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Icons for telescope
+
 
 ## Bash Setup (Linux)
 - [Starship](https://starship.rs/) - Prompt theme engine
