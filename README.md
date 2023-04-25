@@ -10,8 +10,19 @@ My powershell and nvim configuration.
 
 ## Content
 
-- NeoVim config
-- powershell config
+Everything that I use for work and study listed in that repo:
+
+- NeoVim 
+- Bash
+- Powershell
+
+Things that I use that don't are in this repo:
+
+- VS Code
+- IntelliJ
+- Eclipse (Sometimes)
+
+I don't see a reason to put here the IDEs configs.
 
 ## NeoVim Setup
 
